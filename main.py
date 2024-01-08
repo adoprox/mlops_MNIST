@@ -1,4 +1,4 @@
-import numpy
+import tmkb
 import click
 import torch
 from torch import nn
